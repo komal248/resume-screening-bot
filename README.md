@@ -3,19 +3,19 @@
 
 This project uses Natural Language Processing (NLP) and Machine Learning to classify resumes into categories like Data Science, HR, Software Engineer, etc.
 
-## 📁 Dataset
+##  Dataset
 
 - Contains two columns: `Category` (label) and `Resume` (text).
 - Dataset taken from Kaggle.
 
-## ⚙️ Libraries Used
+##  Libraries Used
 
 - pandas
 - numpy
 - scikit-learn
 - plotly
 
-## 🔍 Features
+##  Features
 
 - Text preprocessing (cleaning, tokenization, stopword removal)
 - TF-IDF vectorization
@@ -23,13 +23,13 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 - Confusion matrix and accuracy evaluation
 - Interactive visualizations with Plotly
 
-## 📈 Results
+##  Results
 
 - Accuracy: 99.4%
 - Confusion Matrix: Visual heatmap
 - Resume Category Distribution: Bar chart
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone this repository
 
@@ -37,13 +37,13 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 
 3. Open `resume_screening.ipynb` and run the cells
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - Add more job categories
 - Use larger and real-world resume data
 - Deploy as a Streamlit web app
 
-## 📄 License
+##  License
 
 For academic/educational use only.
 =======
